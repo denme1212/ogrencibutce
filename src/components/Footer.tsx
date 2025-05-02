@@ -18,7 +18,7 @@ const Footer: React.FC = () => {
               <li><a href="#" className="text-gray-300 hover:text-white">Ana Sayfa</a></li>
               <li><a href="#" className="text-gray-300 hover:text-white">Bütçe Hesaplama</a></li>
               <li><a href="#" className="text-gray-300 hover:text-white">Burs Fırsatları</a></li>
-              <li><a href="#" className="text-gray-300 hover:text-white">Part-time İş İlanları</a></li>
+              <li><a href="https://www.kariyer.net/is-ilanlari/universite+ogrencisi" className="text-gray-300 hover:text-white">Part-time İş İlanları</a></li>
               <li><a href="#" className="text-gray-300 hover:text-white">Öğrenci İndirimleri</a></li>
             </ul>
           </div>
