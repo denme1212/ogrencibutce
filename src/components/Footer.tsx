@@ -27,10 +27,9 @@ const Footer: React.FC = () => {
             <h3 className="text-lg font-semibold mb-4">İletişim</h3>
             <address className="text-gray-300 text-sm not-italic">
               <p>Öğrenci Bütçe Hesaplama</p>
-              <p>Üniversite Kampüsü</p>
-              <p>Öğrenci Merkezi, No:1</p>
-              <p className="mt-2">Email: destek@ogrencibutce.edu.tr</p>
-              <p>Tel: (0312) 123 45 67</p>
+              <p>Sakarya Mahallesi</p>
+              <p>817 Sokak No2 35240 Konak/İzmir</p>
+              <p className="mt-2">Email: destek@ogrencibutce.com.tr</p>
             </address>
           </div>
         </div>
