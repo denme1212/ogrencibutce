@@ -35,9 +35,9 @@ const Header: React.FC = () => {
               {isResourcesOpen && (
                 <div className="absolute left-0 mt-2 w-48 rounded-md shadow-lg bg-white ring-1 ring-black ring-opacity-5">
                   <div className="py-1" role="menu" aria-orientation="vertical">
-                    <a href="#" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100" role="menuitem">Burs Fırsatları</a>
-                    <a href="#" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100" role="menuitem">Part-time İş İlanları</a>
-                    <a href="#" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100" role="menuitem">Öğrenci İndirimleri</a>
+                    <a href="https://tubitak.gov.tr/tr/burslar/lisans/burs-programlari" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100" role="menuitem">Burs Fırsatları</a>
+                    <a href="https://www.kariyer.net/is-ilanlari/izmir-part+time" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100" role="menuitem">Part-time İş İlanları</a>
+                    <a href="https://biogrenci.com/?gad_source=1&gbraid=0AAAAAqFjO9GgCpW8jdlLUTAhPLnto9Mc0&gclid=Cj0KCQjw2tHABhCiARIsANZzDWpeYSVXDPafooJPQDI1asll7OpH2zmAbJgwM4IBzA8LR9KdS2Iri5gaAqTDEALw_wcB" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100" role="menuitem">Öğrenci İndirimleri</a>
                   </div>
                 </div>
               )}
