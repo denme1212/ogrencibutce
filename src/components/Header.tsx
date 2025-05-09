@@ -16,7 +16,7 @@ const Header: React.FC = () => {
           <div className="flex items-center">
             <div className="flex-shrink-0 flex items-center">
               <img 
-                src="/logo.jpg" 
+                src="./logo.jpg" 
                 alt="Konak Hürriyet Anadolu Lisesi Logo" 
                 className="h-12 w-12 object-contain"
               />
